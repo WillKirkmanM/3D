@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">3D</h1>
 
-<p align="center">A 3D Game Engine leveraging a software-based 3D rendering for Perspective Projection, Z-Buffering & Mesh Rendering</p>
-
 <p align="center">
   <img width="596" alt="3-Dimensional Spinning Cube Showcase Image" src="https://github.com/user-attachments/assets/f59e291e-83e4-48e0-9409-7f0398f26294" />
 </p>
+
+<p align="center">A 3D Game Engine leveraging a software-based 3D rendering for Perspective Projection, Z-Buffering & Mesh Rendering</p>
 
 
 ## Features
